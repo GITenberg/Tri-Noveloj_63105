@@ -1,0 +1,42 @@
+_repo: Tri-Noveloj_63105
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Fiŝer, Andreo
+    alias: Fiser, Andreo
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '52290'
+    url: http://www.gutenberg.org/2009/agents/52290
+    wikipedia: https://eo.wikipedia.org/wiki/Andreo_Fi%C5%9Der
+creator:
+  author:
+    agent_name: Pushkin, Aleksandr Sergeevich
+    aliases:
+    - Poushkin, Alexander
+    - Пушкин, Александр Сергеевич
+    - Pushkin, A. S. (Aleksandr Sergeevich)
+    - Pushkin, Alexander
+    birthdate: 1799
+    deathdate: 1837
+    gutenberg_agent_id: '1457'
+    url: http://www.gutenberg.org/2009/agents/1457
+    wikipedia: http://en.wikipedia.org/wiki/Aleksandr_Pushkin
+description: ''
+gutenberg_issued: '2020-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63105'
+  lccn: '2010289131'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into Esperanto'
+- !lcc 'PG'
+- !lcsh 'Short stories, Russian -- Translations into Esperanto'
+- GITenberg
+tableOfContents: Antaŭparolo -- Pikreĝino -- Neĝblovado -- La pafo.
+title: Tri Noveloj
+url: http://www.gutenberg.org/ebooks/63105
